@@ -15,5 +15,5 @@ Midias Sociais:
 
 <a href="https://www.facebook.com/ivanzinhofilho"><img align="rigth" width="40" src="https://img.icons8.com/?size=100&id=13912&format=png&color=000000" alt="face-logo"/></a>
 <a href="https://www.instagram.com/iasfilho/"><img align="rigth" width="40" src="https://img.icons8.com/?size=100&id=32323&format=png&color=000000" alt="insta-logo"/></a>
-<a href="https://www.linkedin.com/in/ivan-filho-129074238/"><img align="rigth" width="40" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="linkdin-logo"/></a>
+<a href="https://www.linkedin.com/in/ivanfilho-dev/"><img align="rigth" width="40" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="linkdin-logo"/></a>
 
